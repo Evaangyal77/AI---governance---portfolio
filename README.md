@@ -29,3 +29,5 @@ This repository includes simple Python examples demonstrating
 data privacy and AI governance concepts.
 
 - `python_examples/anonymization_example.py` – basic data anonymization example using pandas
+
+- `python_examples/data_quality_check.py` – basic data quality check for missing values
