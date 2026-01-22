@@ -22,3 +22,10 @@ To transition into a remote Junior Data / AI Governance / Privacy Analyst role (
 - SQL
 - GitHub
 - Tableau
+
+## Python Examples
+
+This repository includes simple Python examples demonstrating
+data privacy and AI governance concepts.
+
+- `python_examples/anonymization_example.py` – basic data anonymization example using pandas
